@@ -4,7 +4,7 @@ const CONFIG = {
     btnIntro: 'click nó nhoa',
     title: 'Quốc đã thích iuuuu từ cái nhìn đầu, đến nay 2 ta cũng đã tìm hiểu được 11 tháng rồi ấy chứ 😙',
     desc: 'iuuuu có còn chút tình cảm với Quốc hog ? nếu còn iuuuu hãy Tiếp Tục nó nhé😙  ',
-    btnYes: 'tiếp tục <33',
+    btnYes: 'tiếp tục <3❤',
     btnNo: 'không tiếp tục :3',
     question:'Quốc biết iuuuu đã bùn phiền Quốc quá nhiều
     mong iuuuu tiếp tục nữa nhaaa',
