@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'iuuuu à!',
     introDesc: `Quốc có đôi lời muốn nói mong iuuuu đọc cho`,
     btnIntro: 'click nó nhoa',
-    title: 'Quốc đã iuuuu từ cái nhìn đầu đến nay mình cũng đã tìm hiểu được 11 tháng rồi ấy chứ 😙',
-    desc: 'iuuuu có còn chút tình cảm với Quốc hog ? nếu còn iuuuu hãy tiếp tục nó nhé😙  ',
+    title: 'Quốc đã thích iuuuu từ cái nhìn đầu đến nay mình cũng đã tìm hiểu được 11 tháng rồi ấy chứ 😙',
+    desc: 'iuuuu có còn chút tình cảm với Quốc hog ? nếu còn iuuuu hãy Tiếp Tục nó nhé😙  ',
     btnYes: 'tiếp tục <33',
     btnNo: 'không tiếp tục :3',
     question:'Quốc biết iuuuu đã bùn phiền Quốc quá nhiều
