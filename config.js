@@ -1,6 +1,7 @@
 const CONFIG = {
     introTitle: 'iuuuu à!',
-    introDesc: `Quốc có đôi lời muốn nói với iuuuu mong đọc cho`,
+    introDesc: `Quốc có đôi lời muốn nói 
+    với iuuuu mong đọc cho`,
     btnIntro: 'click nó nhoa',
     title: 'Quốc đã iuuuu từ cái nhìn đầu đến nay mình cũng đã tìm hiểu được 11 tháng rồi ấy chứ 😙',
     desc: 'iuuuu có còn chút tình cảm với Quốc hog ? nếu còn iuuuu hãy tiếp tục nó nhé😙  ',
@@ -16,5 +17,4 @@ Nếu iuuuu đã hết iuuuu có ko rep tin nhắn nhắn
     mess: 'được hong',
     messDesc: 'nếu được tối nay quốc có thể call với iuuuu được hog?.',
     btnAccept: 'nếu được iuuuu nói cho Quốc nhóe , còn hong iuuuu có thể thoát khỏi trang này',
-    messLink: 'https://www.facebook.com/Ba0Qu0cthw/' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'https://www.facebook.com/Ba0Qu0cthw//
